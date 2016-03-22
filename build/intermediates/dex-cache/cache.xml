@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/raihan/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/commons-io-2.4-ce17da7ce33c626ca46bd4bb035629cc404b037b.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.3/118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1/httpmime-4.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/httpmime-4.2.3-880985a7d70cede161cb2565cf2059b2a398e717.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/commons-lang3-3.1-d75d456dd79ed8ba89904d6fc08cfd4b1be6ad29.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.1.1/b01cc83e745fc4425a3968fafbf8e5b8254a6dd/jackson-annotations-2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/jackson-annotations-2.1.1-5cb1b922aec571721a14d5c5861a2c9d58a3cd04.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/commons-codec-1.10-b241825789141f59511f78778efa584f2311afe1.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-android/0.15.5/2efd680cb025abc5c23148091d67e651a31e1c4a/cloudant-sync-datastore-android-0.15.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2efd680cb025abc5c23148091d67e651a31e1c4a">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-android-0.15.5-38ad3c6439a62793804df7828335b34febd83b4f.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/guava-15.0-6b6426f7f243e940828973f447bb72fcb0ce29ce.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.1/82ad1c5f92f6dcc6291f5c46ebacb975eaa844de/jackson-core-2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="82ad1c5f92f6dcc6291f5c46ebacb975eaa844de">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/jackson-core-2.1.1-e19242d62faa0178fc5d2b9ec1f52bf6118ff427.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.ocpsoft/ocpsoft-pretty-time/1.0.7/7ffb3bd5c0254f3895a2b647ea882df4eea0a166/ocpsoft-pretty-time-1.0.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ffb3bd5c0254f3895a2b647ea882df4eea0a166">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/ocpsoft-pretty-time-1.0.7-75b655b2acd16c71789634296c1f28e3bb29ac96.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/56498efd17752898cfcc3868c1b6211a07b12b8f/joda-time-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/joda-time-2.3-9034e0353daaccdcaeab2d4a0564f870e7ebfc0d.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.m2/repository/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e982f2136574b9a423186fbaeaaa98dc3e5a5288">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/rhino-1.7R4-7d2f67c435942683423d62e714fef2f2a69558ab.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/gson-2.3-1b55651025c6fd5f857abdf9def675d03d94065e.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.1.1/38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2/jackson-databind-2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/jackson-databind-2.1.1-52fc14a1169eb5f1d2c6796e9fefb67b7f323e20.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.2/b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd/httpcore-4.2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/httpcore-4.2.2-9078bf373b483be464253bc481045faf9ff64d0c.jar" />
+    </item>
+    <item
+        jar="/home/raihan/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-core/0.15.5/1dd44210c068aeade17c42841778385387bac300/cloudant-sync-datastore-core-0.15.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1dd44210c068aeade17c42841778385387bac300">
+        <dex dex="/home/raihan/OpenSrpLubuntu/sync-android/sample/todo-sync/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-core-0.15.5-c8b560e85247e9c95731f0ea8d9bfcdf59f6b01e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoSync</string>
+    <string name="activity_settings_title">Settings</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_new">New</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_download">Download (Pull)</string>
+    <string name="action_upload">Upload (Push)</string>
+    <string name="action_delete">Delete</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_description">Enter task description</string>
+    <string name="task_not_created">Task not created because description is empty</string>
+    <string name="completed">COMPLETED</string>
+    <string name="replication_running">Replication is running</string>
+    <string name="replication_completed">Replication completed</string>
+    <string name="replication_error">Replication error</string>
+    <string name="pref_summary_api_key">The api key used to replicate to/from your cloudant account.</string>
+    <string name="pref_title_api_key">API Key</string>
+    <string name="pref_summary_api_password">The api password used to replicate to/from your cloudant account.</string>
+    <string name="pref_title_api_password">API Password</string>
+    <string name="pref_summary_username">You cloudant user name, and it is also used to determine your cloudant server url.</string>
+    <string name="pref_title_username">Cloudant user name</string>
+    <string name="pref_summary_dbname">You cloudant db name, and this is the db used in replication.</string>
+    <string name="pref_title_dbname">Cloudant db name</string>
+<string name="jsonevent">{   \"baseEntityId\": \"879e51ea-56ab-4734-bc46-09c46f4ff189\",   \"eventDate\": {     \"iChronology\": {       \"iBase\": {         \"iBase\": {           \"iBase\": {             \"iMinDaysInFirstWeek\": 4           }         },         \"iParam\": {           \"iZone\": {             \"iNameKeys\": [               \"LMT\",               \"EAT\",               \"BEAT\",               \"BEAUT\",               \"EAT\"             ],             \"iStandardOffsets\": [               8836000,               10800000,               9000000,               9900000,               10800000             ],             \"iTransitions\": [               -9223372036854776000,               -1309746436000,               -1262314800000,               -946780200000,               -315629100000             ],             \"iWallOffsets\": [               8836000,               10800000,               9000000,               9900000,               10800000             ],             \"iID\": \"Africa/Nairobi\"           },           \"iID\": \"Africa/Nairobi\"         }       }     },     \"iMillis\": 1457643600000   },   \"formSubmissionId\": \"9a7b0730-f938-4257-adfd-2d707a424b04\",   \"locationId\": \"4ccd5a33-c462-4b53-b8c1-a1ad1c3ba0cf\",   \"obs\": [     {       \"fieldCode\": \"163137AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\",       \"fieldDataType\": \"start\",       \"fieldType\": \"concept\",       \"formSubmissionField\": \"start\",       \"values\": [         \"2016-03-11 12:13:58\"       ]     },     {       \"fieldCode\": \"163138AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\",       \"fieldDataType\": \"end\",       \"fieldType\": \"concept\",       \"formSubmissionField\": \"end\",       \"values\": [         \"2016-03-11 12:15:57\"       ]     },     {       \"fieldCode\": \"160753AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\",       \"fieldDataType\": \"date\",       \"fieldType\": \"concept\",       \"formSubmissionField\": \"FWNHREGDATE\",       \"values\": [         \"2016-03-11\"       ]     },     {       \"fieldCode\": \"5611AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\",       \"fieldDataType\": \"text\",       \"fieldType\": \"concept\",       \"formSubmissionField\": \"FWNHHMBRNUM\",       \"values\": [         \"12\"       ]     },     {       \"fieldCode\": \"163095AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\",       \"fieldType\": \"concept\",       \"formSubmissionField\": \"user_type\",       \"values\": [         \"FWA\"       ]     }   ],   \"providerId\": \"dummyANM\",   \"version\": 1457687764920,   \"voided\": false,   \"type\": \"Event\" }</string>
+    <string name="jsonmapconfig">{       \"obs\": [         {\"name\":\"FWNHHMBRNUM\"}       ],       \"attributes\" : [         {\"name\":\"voided\"},{\"name\":\"providerId\"}       ]     }</string>
+    <string name="jsonmapconfig2">{       \"obs\": [         {\"name\":\"father_name\"}       ],       \"attributes\" : [         {\"name\":\"voided\"},{\"name\":\"providerId\"}       ]     }</string>
+    <string name="jsonClientMapConfig">{       \"property\": [         {\"name\":\"father_name\"}       ],       \"attributes\" : [        ]     }</string>
+
+</resources>
